@@ -1,0 +1,7 @@
+{
+    "dataSource": "prs",
+    "prefix": "[feat]",
+    "onlyMilestones": true,
+    "groupBy": "label",
+    "changelogFilename": "CHANGELOG.md"
+}
