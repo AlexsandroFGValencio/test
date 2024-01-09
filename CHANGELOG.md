@@ -1,5 +1,13 @@
 # Changelog
 
+## Update README (08/01/2024)
+## What's Changed
+* [chore] Update README by @AlexsandroFGValencio in https://github.com/AlexsandroFGValencio/test/pull/3
+
+
+**Full Changelog**: https://github.com/AlexsandroFGValencio/test/compare/1.0.2...1.0.3
+---
+
 ## Testing changelog (08/01/2024)
 ## What's Changed
 * Feat/adding gren by @AlexsandroFGValencio in https://github.com/AlexsandroFGValencio/test/pull/2
