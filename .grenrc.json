@@ -1,7 +1,8 @@
 {
     "dataSource": "prs",
-    "prefix": "[feat]",
+    "prefix": "",
     "onlyMilestones": true,
     "groupBy": "label",
-    "changelogFilename": "CHANGELOG.md"
+    "changelogFilename": "CHANGELOG.md",
+    "token": "SECRET_ENV"
 }
