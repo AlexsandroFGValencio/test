@@ -1,0 +1,8 @@
+{
+    "dataSource": "prs",
+    "prefix": "",
+    "onlyMilestones": true,
+    "groupBy": "label",
+    "changelogFilename": "CHANGELOG.md",
+    "token": "SECRET_ENV"
+}
